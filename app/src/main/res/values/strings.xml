@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Trivial app</string>
+
+    <string name="anadir_pregunta">Añadir pregunta</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <string name="pregunta">pregunta</string>
+
+
+    <string name="preguntas_string">Preguntas</string>
+    <string name="buscador">Navegador de preguntas</string>
+    <string name="anadir_respuesta_correcta">Respuesta correcta…</string>
+    <string name="anadir_respuesta_falsa">Respuesta falsa…</string>
+    <string name="anadir_pregunta_titulo">Pregunta</string>
+    <string name="done_button_text">Añadir</string>
+    <string name="fab_content_description">fab</string>
+    <string name="image_description">Foto cartel</string>
+    <string name="eliminar_pregunta">Eliminar esta pregunta</string>
+    <string name="actualizar_pregunta">Actualizar pregunta</string>
+    <string name="title_activity_game">GameActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>
