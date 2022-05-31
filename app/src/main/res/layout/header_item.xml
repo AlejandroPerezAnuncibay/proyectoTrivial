@@ -12,6 +12,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
+        android:fontFamily="casual"
         android:text="@string/buscador"
         android:textAppearance="?attr/textAppearanceHeadline3"
         android:textSize="34sp"
@@ -29,6 +30,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
+        android:fontFamily="casual"
         android:text="@string/preguntas_string"
         android:textAppearance="?attr/textAppearanceHeadline6" />
 

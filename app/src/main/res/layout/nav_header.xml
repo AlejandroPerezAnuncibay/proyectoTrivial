@@ -8,24 +8,25 @@
     android:background="@color/white">
 
     <TextView
-        
+
+        android:id="@+id/user_name"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/user_name"
+        android:fontFamily="casual"
         android:paddingTop="8dp"
-        android:textSize="24dp"
         android:text="Juego trivial"
         android:textColor="@color/black"
-        android:textStyle="bold"
+        android:textSize="24dp"
 
-        />
+        android:textStyle="bold" />
+
     <TextView
 
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textSize="16dp"
-        android:text="proyecto final"
-        />
+        android:fontFamily="casual"
+        android:text="Proyecto final"
+        android:textSize="16dp" />
 
 
     <View

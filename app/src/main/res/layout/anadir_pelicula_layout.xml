@@ -12,6 +12,7 @@
         android:id="@+id/textView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:fontFamily="casual"
         android:paddingTop="16dp"
         android:paddingBottom="16dp"
         android:text="@string/anadir_pregunta"
@@ -30,7 +31,8 @@
             android:id="@+id/titulo_pregunta"
             android:layout_width="match_parent"
             android:layout_height="70dp"
-            android:inputType="textMultiLine"/>
+            android:fontFamily="casual"
+            android:inputType="textMultiLine" />
 
     </com.google.android.material.textfield.TextInputLayout>
 
@@ -46,6 +48,7 @@
             android:id="@+id/respuesta_correcta"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:fontFamily="casual"
             android:inputType="textMultiLine" />
 
     </com.google.android.material.textfield.TextInputLayout>
@@ -61,6 +64,7 @@
             android:id="@+id/respuesta_falsa_1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:fontFamily="casual"
             android:inputType="textMultiLine" />
 
     </com.google.android.material.textfield.TextInputLayout>
@@ -77,6 +81,7 @@
             android:id="@+id/respuesta_falsa_2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:fontFamily="casual"
             android:inputType="textMultiLine" />
 
     </com.google.android.material.textfield.TextInputLayout>
@@ -93,6 +98,7 @@
             android:id="@+id/respuesta_falsa_3"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:fontFamily="casual"
             android:inputType="textMultiLine" />
 
     </com.google.android.material.textfield.TextInputLayout>

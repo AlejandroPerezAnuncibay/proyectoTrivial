@@ -11,6 +11,7 @@
         android:id="@+id/pregunta_detail_titulo"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:fontFamily="casual"
         android:paddingTop="24dp"
         android:paddingBottom="24dp"
         android:text="@string/pregunta"
@@ -21,6 +22,7 @@
         android:id="@+id/pregunta_detail_correcta"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:fontFamily="casual"
         android:padding="16dp"
         android:text="correcta" />
 
@@ -28,6 +30,7 @@
         android:id="@+id/pregunta_detail_falsa1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:fontFamily="casual"
         android:padding="16dp"
         android:text="falsa1" />
 
@@ -35,6 +38,7 @@
         android:id="@+id/pregunta_detail_falsa2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:fontFamily="casual"
         android:padding="16dp"
         android:text="falsa2" />
 
@@ -42,6 +46,7 @@
         android:id="@+id/pregunta_detail_falsa3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:fontFamily="casual"
         android:padding="16dp"
         android:text="falsa3" />
 
